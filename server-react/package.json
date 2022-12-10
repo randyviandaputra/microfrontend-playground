@@ -22,7 +22,7 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hypernova": "^2.5.0",
     "hypernova-react": "^2.1.0",
     "prop-types": "^15.7.2",
